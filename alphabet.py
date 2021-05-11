@@ -1,4 +1,4 @@
-from string import ascii_lowercase;
+from string import ascii_lowercase
 
 alphabet = {}
 a = 1
@@ -9,4 +9,3 @@ for i in range(len(ascii_lowercase)):
 
 for key, value in alphabet.items():
     print(key, value)
-
