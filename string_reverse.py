@@ -5,3 +5,9 @@ while len(s) != 0:
     s = s[0:-1]
 
 print(r)
+
+b = []
+for i in s:
+    b.append('s')
+
+print(b)
